@@ -65,6 +65,8 @@ function ShowData({ setFormData, setEditId }) {
             <p>{data.disease}</p>
             <h2>Duration:</h2>
             <p>{data.duration}</p>
+            <h2>Medicine & Dosage:</h2>
+            <p>{data.medicine}</p>
             <h2>Gender:</h2>
             <p>{data.gender}</p>
             <h2>Phone Number:</h2>

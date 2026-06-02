@@ -12,6 +12,7 @@ function App() {
      age: "",
      disease: "",
      duration: "",
+     medicine:"",
      gender: "",
      phoneNumber: "",
      image:null

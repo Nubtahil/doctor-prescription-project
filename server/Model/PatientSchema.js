@@ -22,11 +22,11 @@ name:{
   enum:["male","female"],
   required: true
  },
-//  medicine:{
-//    name: String,
-//    dosage: String,
-//    notes: String
-//  },
+ medicine:{
+   name: String,
+   dosage: String,
+   notes: String
+ },
  phoneNumber:{
   type:String,
   required: true
