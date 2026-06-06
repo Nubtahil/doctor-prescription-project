@@ -10,6 +10,7 @@ FEATURES:
 --delete patient photo from database & from uploads folder
 --Show complete data of the patient on browser
 --toasts on invalid input from the data
+--all screen responsive
 
 TECHNOLOGIES USED:
 Frontend:
